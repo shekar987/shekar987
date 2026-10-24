@@ -11,7 +11,7 @@ I'm a full stack and AI engineer based in London. I build products from the firs
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Jobhuntz**](https://github.com/shekar987/cv-tailor) · [live](https://www.jobhuntz.app/) | An AI career platform. An LLM pipeline writes tailored CVs and cover letters, and code checks every claim against the user's real CV. | Next.js, TypeScript, Supabase, Claude API |
-| [**CampaignPulse**](https://github.com/shekar987/CampaignPulse) · [demo](https://d2tg6k6wy891qy.cloudfront.net/) | An event-driven reliability platform with retries, a dead-letter queue and idempotent workers, tested at three levels. | React, GraphQL, Node.js, AWS Lambda/SQS/SNS, Terraform |
+| [**CampaignPulse**](https://github.com/shekar987/CampaignPulse) · [demo](https://d2249v19zh4pw4.cloudfront.net/) | An event-driven reliability platform with retries, a dead-letter queue and idempotent workers, tested at three levels. | React, GraphQL, Node.js, AWS Lambda/SQS/SNS, Terraform |
 | [**RideX**](https://github.com/shekar987/RideX-app) · [demo](https://uber-demo-omega.vercel.app/) | A ride-hailing platform with customer, driver and admin portals, Stripe payments and real-time dispatch. A personal portfolio project modelled on a real-world brief. | React, Firebase, Node.js, Stripe, Mapbox |
 | [**Cairn**](https://github.com/shekar987/cf_ai_cairn) | A goal companion agent with streaming chat, durable per-user state and a scheduled evening reflection. | Cloudflare Workers AI, Durable Objects, Workflows |
 

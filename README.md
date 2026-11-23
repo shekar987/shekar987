@@ -3,7 +3,7 @@
 I'm a full stack and AI engineer based in London. I build products from the first idea to a live deployment.
 
 - **Two years in production at Brane Group:** Python/FastAPI services and React/TypeScript applications. I shipped 20+ API modules, cut API response times by 25% and cut deployment time by 40% with CI/CD.
-- **Now:** MSc Computer Science (with Industrial Placement) at the University of East London. On my placement I'm helping build FraudGuard AI, a fraud-risk prototype.
+- **Now:** Lead full-stack engineer on FraudGuard AI, a fraud early-warning prototype, as the industrial placement for my MSc Computer Science at the University of East London. I lead a team of three and built the platform from scratch: 10 Docker services (FastAPI, Next.js, PostgreSQL, Redis), 150 automated tests on every change, and load time cut from 7.95s to 1.03s.
 - **Looking for:** full stack, backend and AI engineer roles in London. I'm available immediately.
 
 ### Projects I'd point you to
